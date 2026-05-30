@@ -5,8 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HeitorSCav/HeitorSCav/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/HeitorSCav/HeitorSCav/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/HeitorSCav/HeitorSCav/stats-output/stats.svg" height="900" alt="stats graph"  />
+   <br><br>
+  <img src="https://raw.githubusercontent.com/HeitorSCav/HeitorSCav/languages-output/languages.svg" height="900" alt="languages graph"  />
 </div>
 
 ###

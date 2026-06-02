@@ -1,6 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Heitor+%F0%9F%91%8B" alt="Typing SVG" />
-</div>
+</div>  
+
+## ℹ️ About me
+My curiosity to understand how systems work "behind the scenes" led me to Computer Science - and continues to motivate my studies.
+
+I am a Computer Science student at PUC-SP, with an interest in the area of ​​Data. I enjoy exploring how information can be used to understand problems and guide decisions.
+
+Currently, I am seeking my first professional experience in the field (Internship), where I can apply what I have been learning and continue developing my skills.    
+
 
 <br clear="both">
 

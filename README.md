@@ -1,5 +1,3 @@
-<br>
-
 <div align="center">
   
   <b>`頑 張 っ て`</b>
@@ -11,7 +9,7 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I'm+from+Brazil;I'm+a+student+of+Computer+Science;Interested+in+Data+%26+AI;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </div>
 
 <br>

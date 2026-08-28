@@ -15,7 +15,6 @@
 </div>
 
 <br>
-<br>
       
 <div align="center">
   
@@ -42,7 +41,6 @@
   </summary>
   
 <br>
-<br>
 
 <div align="center">
   <samp>
@@ -51,6 +49,7 @@
     </b>
   </samp>
   
+  <br>
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:heitor.scavalcantii@gmail.com)
